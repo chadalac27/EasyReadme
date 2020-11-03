@@ -14,32 +14,32 @@ Github readme file done easy!  This node application will help you generate a qu
 * [License](#license)
 
 ## Installation
-![install](./assets/images/readme-easy_instal-inquirer.png)
+![install]
 
 Just clone the repository, install inquirer, and run the application in node
 
 ## Usage
-![start up](./assets/images/readme-easy_startup.png)
+![start-up]
 
 Run node index.js and follow the on screen prompts to create your readme file
 
-![full use](./assets/images/readme-easy_full-log.png)
+![full-use]
 
 Follow all the instructions like, and i will generate your new amazing readme
 
-![result](./assets/images/readme-easy_output.png)
+![result]
 
 Your finished readme will be placed inside a folder called "output"
 
 ## Contributions
-Contribute as much as you like :D
+Contribute IF YOU DARE!!
 
 ## Testing
-If you want to test this, let me know
+Test to your hearts content
 
 ## Credits
-GitHub: https://www.github.com/jbaxter91
+GitHub: https://www.github.com/chadalac27
 
-Email: jbaxter1337@yahoo.com
+Email: chadcoleman1234@gmail.com
 ## License
 MIT License: A short and simple permissive license with conditions only requiring preservation of copyright and license notices. Licensed works, modifications, and larger works may be distributed under different terms and without source code.
